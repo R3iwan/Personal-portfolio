@@ -1,0 +1,28 @@
+.header{
+    background-color: #007bff;
+    color: #fff;
+    padding: 15px 0;
+}
+
+.container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav-page ul li a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 15px;
+    transition: color 0.4s ease;
+}
+
+.nav-page li{
+    display: inline;
+    margin-right: 20px;
+}
+
+.nav-page ul{
+    list-style: none;
+    margin-right: 20px;
+}
